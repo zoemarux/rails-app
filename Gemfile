@@ -7,6 +7,7 @@ ruby '2.7.2'
 gem 'rails'
 # Use postgresql as the database for Active Record
 gem 'pg'
+gem "view_component", require: "view_component/engine"
 # Transpile app-like JavaScript.
 gem 'webpacker'
 # Tailwind CSS is a utility-first CSS framework

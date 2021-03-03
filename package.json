@@ -5,8 +5,7 @@
     "@rails/webpacker": "5.2.1",
     "auto-prefixer": "^0.4.2",
     "autoprefixer": "^9",
-    "postcss": "^7",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+    "postcss": "^7"
   },
   "devDependencies": {
     "webpack-dev-server": "^3.11.2"

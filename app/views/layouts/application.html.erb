@@ -12,7 +12,9 @@
   </head>
 
   <body>
-    <div>test</div>
+  <%= render(ExampleComponent.new(title: "my title")) do %>
+    Hello, World!
+  <% end %>
     <%= yield %>
   </body>
 </html>
