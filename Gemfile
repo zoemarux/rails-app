@@ -10,8 +10,6 @@ gem 'pg'
 gem "view_component", require: "view_component/engine"
 # Transpile app-like JavaScript.
 gem 'webpacker'
-# Tailwind CSS is a utility-first CSS framework
-gem 'tailwindcss-rails'
 # Autoprefixer is a tool to parse CSS and add vendor prefixes to CSS rules using
 # values from the Can I Use.
 gem 'autoprefixer-rails'
